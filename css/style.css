@@ -56,7 +56,7 @@ p.description, p:nth-of-type(2) {
 
 button {
   color: white;
-  background: #508abc;
+  background: #3897f0;
   border: solid 1px;
   border-color: rgba(0, 0, 0, .1);
   cursor: pointer;
@@ -67,24 +67,24 @@ button+button {
 }
 
 p+button {
-  background: #52bab3;
+  background: #3AC162;
 }
 
 .list button+button {
-  background: #768da3;
+  background: #3897f0;
 }
 
 .list li button+button {
-  background: #508abc;
+  background: #3897f0;
 }
 
 li button:first-child {
   margin-left: auto;
-  background: #52bab3;
+  background: #3AC162;
 }
 
 .list li button:last-child {
-  background: #768da3;
+  background: #FF5a5F;
 }
 
 li button {
